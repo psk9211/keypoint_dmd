@@ -5,4 +5,4 @@
 ./utils/__pycache__/*
 
 # weight file
-*.pth
+*.pth.cache/
