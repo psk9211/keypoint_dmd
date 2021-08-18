@@ -1,7 +1,3 @@
-import datetime
-import os
-import time
-
 import torch
 import torch.utils.data
 import torchvision

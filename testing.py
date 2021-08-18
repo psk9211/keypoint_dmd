@@ -1,23 +1,15 @@
-import datetime
 import os
 import random
 import time
-from PIL import Image
-import numpy as np
 import matplotlib.pyplot as plt
 
 import torch
-from torch._C import dtype
 import torch.utils.data
 import torchvision
 import torchvision.transforms.functional as F
 
-from utils.engine import evaluate
 from utils import utils
 from utils.visualize import *
-
-import pdb
-
 
 plt.rcParams["savefig.bbox"] = 'tight'
 
