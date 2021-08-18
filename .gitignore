@@ -1,0 +1,8 @@
+# results images
+./results/*
+
+# pycache
+./utils/__pycache__/*
+
+# weight file
+*.pth
