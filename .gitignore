@@ -1,8 +1,8 @@
 # results images
-./results/*
+results/
 
 # pycache
-./utils/__pycache__/*
+utils/__pycache__/
 
 # weight file
-*.pth.cache/
+*.pth
